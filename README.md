@@ -12,8 +12,7 @@ REG NO:212223100019
 - Operating System: Windows 10/11 or Linux (Kali preferred)
 ## ARCHITECTURE DIAGRAM
 ```mermaid# Reviewing-Unallocated-Space-Extracting-Data-with-Tools-Digital-Investigation-Processes
-### REG.NO: 212223100043
-### NAME : RAGUL RAAJAN T
+
 ## AIM:
 To review unallocated space in a disk image, extract data using forensic tools, and understand the digital investigation process.
 ## REQUIREMENTS

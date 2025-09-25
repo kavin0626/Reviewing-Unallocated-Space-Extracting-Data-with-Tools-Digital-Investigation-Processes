@@ -64,7 +64,7 @@ Unallocated Space Analysis and Extracted Data Report
 <img width="1030" height="532" alt="Screenshot 2025-09-20 172055" src="https://github.com/user-attachments/assets/68dfe3d7-4650-4ef4-a0a8-7ef6f0675b90" />
 
 <img width="1919" height="1079" alt="Screenshot 2025-09-20 144937" src="https://github.com/user-attachments/assets/6f52a826-d2c8-4852-a430-8941f52adaab" />
-<img width="669" height="511" alt="image" src="https://github.com/user-attachments/assets/3a1b929d-650d-4790-854f-0160ff8b3700" />
+<img width="979" height="673" alt="Screenshot 2025-09-25 185810" src="https://github.com/user-attachments/assets/86a77958-1dbf-42d1-9a8c-e79e5f25165b" />
 
 
 ## RESULT:

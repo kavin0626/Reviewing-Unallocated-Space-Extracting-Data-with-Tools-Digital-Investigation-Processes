@@ -11,6 +11,17 @@ REG NO:212223100019
 - Hex Editor (e.g., HxD)
 - Operating System: Windows 10/11 or Linux (Kali preferred)
 ## ARCHITECTURE DIAGRAM
+```mermaid# Reviewing-Unallocated-Space-Extracting-Data-with-Tools-Digital-Investigation-Processes
+### REG.NO: 212223100043
+### NAME : RAGUL RAAJAN T
+## AIM:
+To review unallocated space in a disk image, extract data using forensic tools, and understand the digital investigation process.
+## REQUIREMENTS
+- Autopsy or FTK Imager
+- Sleuth Kit (TSK)
+- Hex Editor (e.g., HxD)
+- Operating System: Windows 10/11 or Linux (Kali preferred)
+## ARCHITECTURE DIAGRAM
 ```mermaid
 flowchart TD
     A[Disk Image / Physical Drive] --> B[Load into Autopsy or Sleuth Kit]
@@ -47,35 +58,17 @@ flowchart TD
 
 ## OUTPUT:
 Unallocated Space Analysis and Extracted Data Report
+<img width="934" height="721" alt="Screenshot 2025-09-20 172846" src="https://github.com/user-attachments/assets/29b00d3d-9149-408d-9af4-702803e7de39" />
+<img width="1413" height="777" alt="Screenshot 2025-09-20 171718" src="https://github.com/user-attachments/assets/08aa896d-d031-46e5-8e5e-fadfae2f3e96" />
+<img width="1919" height="702" alt="Screenshot 2025-09-20 144502" src="https://github.com/user-attachments/assets/5e9aceb2-c66c-45aa-aeed-5b20840ffbdc" />
+<img width="1030" height="532" alt="Screenshot 2025-09-20 172055" src="https://github.com/user-attachments/assets/68dfe3d7-4650-4ef4-a0a8-7ef6f0675b90" />
 
-
-<img width="1918" height="1067" alt="Screenshot 2025-09-20 134717" src="https://github.com/user-attachments/assets/e4cf419f-7538-4013-bf9e-1792ae0bc2de" />
-
-
-
-
-<img width="958" height="1013" alt="Screenshot 2025-09-20 194257" src="https://github.com/user-attachments/assets/51efc752-a6ad-48e5-a62c-1f975468002c" />
-
-
-
-<img width="944" height="965" alt="Screenshot 2025-09-20 194325" src="https://github.com/user-attachments/assets/9d0452ff-ef20-415a-8697-bd3c3603bf29" />
-
-<img width="611" height="464" alt="Screenshot 2025-09-20 194339" src="https://github.com/user-attachments/assets/2fd1f605-a97d-45f8-bd18-357344d7fd80" />
-
-<img width="549" height="490" alt="Screenshot 2025-09-20 194351" src="https://github.com/user-attachments/assets/2efb8c6f-3604-4093-ba23-696f76a45047" />
-
-<img width="557" height="439" alt="Screenshot 2025-09-20 194417" src="https://github.com/user-attachments/assets/19ae64ad-bd42-4a56-b4f0-b139018d7edf" />
-
-<img width="487" height="356" alt="Screenshot 2025-09-20 194431" src="https://github.com/user-attachments/assets/0845625b-a726-41a1-818e-ba4b4b855898" />
-
-<img width="599" height="483" alt="Screenshot 2025-09-20 194451" src="https://github.com/user-attachments/assets/7a0c6a8b-2fa6-4793-8661-c014a05dda14" />
-
-
-
-<img width="712" height="907" alt="Screenshot 2025-09-20 194842" src="https://github.com/user-attachments/assets/c7a47a50-4aff-4b22-914c-e39bc024f91a" />
-
+<img width="1919" height="1079" alt="Screenshot 2025-09-20 144937" src="https://github.com/user-attachments/assets/6f52a826-d2c8-4852-a430-8941f52adaab" />
+<img width="669" height="511" alt="image" src="https://github.com/user-attachments/assets/3a1b929d-650d-4790-854f-0160ff8b3700" />
 
 
 ## RESULT:
 The unallocated space was successfully analyzed, data was extracted, and the digital investigation process was followed effectively.
+
+
 
